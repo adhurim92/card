@@ -1,0 +1,88 @@
+body {
+    background: hsl(217, 54%, 11%);
+}
+
+.myDiv {
+
+    width: 17%;
+    height: 53%;
+    border-radius: 5%;
+
+    min-height: 505px;
+    min-width: 315px;
+
+    margin: auto;
+    margin-top: 10%;
+    background-color: hsl(214, 50%, 16%);
+
+
+
+}
+
+.myDiv img:nth-child(2) {
+    height: 55%;
+    width: 80%;
+
+    min-height: 280px;
+    min-width: 250px;
+
+    display: block;
+
+
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5%;
+}
+
+.myDiv img:nth-child(9) {
+    margin-top: 5%;
+    margin-left: 10%;
+    width: 30px;
+    height: 30px;
+    float: left;
+
+    border-radius: 50%;
+    border-style: solid;
+    border-color: azure;
+    border-width: 1px;
+}
+
+h3 {
+    padding-left: 10%;
+    color: hsl(178, 100%, 50%);
+    font-family: 'outfit', sans-serif;
+}
+
+.div1 {
+    
+    font-size: 12px;
+    padding-left: 10%;
+    color: hsl(178, 100%, 50%);
+    font-family: 'outfit', sans-serif;
+    float: left;
+    font-weight: 600;
+
+}
+
+.div2 {
+    font-size: 12px;
+    padding-right: 10%;
+    color: hsl(178, 100%, 50%);
+    font-family: 'outfit', sans-serif;
+    float: right;
+    font-weight: 600;
+}
+
+p {
+
+    padding-left: 10%;
+    font-family: 'outfit', sans-serif;
+    color: hsl(215, 51%, 70%);
+    text-align: left;
+    font-weight: 400;
+
+}
+hr{
+    width: 80%;
+    
+}
